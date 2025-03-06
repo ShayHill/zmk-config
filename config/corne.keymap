@@ -119,7 +119,7 @@
         };
         layer7 {
                 bindings = <
-&none           &trans          &trans          &kp COLON       &kp ESCAP       &trans          &trans          &trans          &trans          &trans          &kp DEL         &none
+&none           &trans          &trans          &kp COLON       &kp ESC         &trans          &trans          &trans          &trans          &trans          &kp DEL         &none
 &none           &trans          &kp PERCENT     &kp FSLH        &kp ENTER       &trans          &none           &kp RGUI        &none           &none           &kp RSHFT       &none
 &none           &trans          &trans          &trans          &kp EXCL        &trans          &none           &trans          &mt LALT COMMA  &mt LCTL DOT    &bootloader     &none
                                                 &none           &caps_word      &kp TAB         &trans          &kp CAPS        &none
